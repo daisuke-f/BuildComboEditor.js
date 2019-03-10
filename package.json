@@ -1,0 +1,14 @@
+{
+  "name": "combobox_for_slickgrid",
+  "version": "1.0.0",
+  "description": "SlickGrid combo box editor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daisuke Fujii",
+  "license": "ISC",
+  "dependencies": {
+    "slickgrid": "^2.4.4"
+  }
+}
